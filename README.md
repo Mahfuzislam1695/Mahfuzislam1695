@@ -38,6 +38,9 @@ Experienced in collaborating with cross-functional teams and leading development
 
 ### 📊 GitHub Activity
 <p align="center">
+  <p align="center">
+  <img src="https://ghchart.rshah.org/388E3C/mahfuzislam1695" />
+</p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mahfuzislam1695&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"
     height="160"
