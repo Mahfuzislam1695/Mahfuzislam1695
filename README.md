@@ -2,6 +2,17 @@
 <h3 align="center">Full-Stack Developer | Backend-Focused</h3>
 
 <p align="center">
+  🌐 Portfolio: <a href="https://mahfuz-islam.vercel.app/">https://mahfuz-islam.vercel.app/</a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahfuzislam1695&label=Profile%20Views&color=388E3C&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzislam1695&theme=github-light&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfuzislam1695&label=Profile%20Views&color=388E3C&style=flat" />
 </p>
 
@@ -41,9 +52,7 @@ Experienced in collaborating with cross-functional teams and leading development
   <img src="https://ghchart.rshah.org/388E3C/mahfuzislam1695" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzislam1695&theme=github-light&hide_border=true" />
-</p>
+
 
 
 
