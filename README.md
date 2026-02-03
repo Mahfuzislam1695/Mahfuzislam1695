@@ -45,14 +45,6 @@ Experienced in collaborating with cross-functional teams and leading development
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzislam1695&theme=github-light&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/master/metrics.classic.svg?raw=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfuzislam1695&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
 
 
 
