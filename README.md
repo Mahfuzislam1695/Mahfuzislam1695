@@ -36,7 +36,7 @@
 Full-stack developer with **4+ years of professional experience (since 2021)** building  
 **scalable, secure, and maintainable** web applications.
 
-Specialized in **React, Next.js, Node.js, Express, SQL, and PostgreSQL**, with strong focus on  
+Specialized in **React, Next.js, Node.js, Express, Nest.js, SQL, and PostgreSQL**, with strong focus on  
 **NestJS**, backend architecture, and clean system design.
 
 Experienced in collaborating with cross-functional teams and leading development efforts
